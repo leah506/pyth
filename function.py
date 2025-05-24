@@ -12,6 +12,7 @@ perimeter(6)
 
 def age(yob):
     year = 2025 - yob
+    print(year)
     
 
 
